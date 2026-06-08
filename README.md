@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=160&section=header&text=Hi,%20I'm%20Dandy%20👋&fontSize=60&animation=fadeIn&fontColor=ffffff" />
-  
-  <h1>🚀 Full-Stack Software Engineer | Health Informatics Researcher</h1>
-  <p><i>Building high-performance, scalable systems with a love for type-safety and efficiency.</i></p>
+  <p>Hey There! I am Chukwuma (Chuck) Okoroji</p>
+  <p>I am a Full-Stack Software Engineer based in Florida | Health Informatics Researcher</p>
 
   <a href="https://ceokoroji.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ceokoroji.dev-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:dandychux@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" /></a>
