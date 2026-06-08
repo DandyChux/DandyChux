@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Hi! My name is <a hef="https://ceokoroji.dev" target="_blank">Chukwuma (Chuck) Okoroji</a> 👋</p>
+  <p>Hi! My name is <a href="https://ceokoroji.dev" target="_blank" style="color:red;text-decoration:none">Chukwuma (Chuck) Okoroji</a> 👋</p>
   <p>I am a Full-Stack Software Engineer based in Florida | Health Informatics Researcher</p>
 
   <a href="https://ceokoroji.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ceokoroji.dev-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
