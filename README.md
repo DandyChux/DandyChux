@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dandy%20👋&fontSize=70&animation=fadeIn&fontColor=ffffff" />
   
-  <h1>🚀 Full-Stack Software Engineer | Product Architect</h1>
+  <h1>🚀 Full-Stack Software Engineer | Health Informatics Researcher</h1>
   <p><i>Building high-performance, scalable systems with a love for type-safety and efficiency.</i></p>
 
   <a href="https://ceokoroji.dev" target="_blank">
@@ -18,13 +18,13 @@
 <br/>
 
 ## 💫 About Me
-I am a passionate **Full-Stack Developer**. I specialize in building high-performance web applications with a strong focus on User Experience (UX) and clean, maintainable code. I bridge the gap between business logic and technical implementation.
+I am a **Software Engineer**, currently specializing in the intersection of **Health Informatics** and high-performance systems. I spend my time researching and developing medical/clinical tools designed to improve healthcare delivery and patient outcomes through precise, scalable software.
 
-- 🔭 **I’m currently working on:** Scalable backend architectures and refined UI/UX components.
-- 🌱 **I’m currently exploring:** Advanced Rust patterns and Distributed Systems.
-- 👯 **I’m looking to collaborate on:** Open source projects that push the boundaries of web performance.
+- 🩺 **Focus:** Currently dedicated to health informatics research and the development of clinical-grade software tools.
+- 🌱 **Learning:** Deep-diving into **C++** and advanced memory management patterns to write more efficient, deterministic code.
+- 🦀 **Exploring:** Continuing my journey with advanced **Rust** patterns and the complexities of **Distributed Systems**.
+- 🤝 **Collaboration:** I'm actively looking to collaborate on **open-source health tech** and medical software projects that have a real-world impact.
 - ⚡ **Philosophy:** Use the right tool for the job, regardless of the language.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -42,6 +42,7 @@ I am a passionate **Full-Stack Developer**. I specialize in building high-perfor
 
 ### ⚙️ Backend & Systems
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
