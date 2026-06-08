@@ -2,8 +2,6 @@
   <p>Hi! My name is <a href="https://ceokoroji.dev" target="_blank" style="color:red;text-decoration:none">Chukwuma (Chuck) Okoroji</a> 👋</p>
   <p>I am a Full-Stack Software Engineer based in Florida | Health Informatics Researcher</p>
 
-  <a href="https://ceokoroji.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ceokoroji.dev-blue?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:dandychux@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/chukwuma-okoroji"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </div>
 
