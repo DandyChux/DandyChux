@@ -7,10 +7,10 @@
   <a href="https://ceokoroji.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ceokoroji.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:dandychux@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/chukwuma-okoroji">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -18,7 +18,7 @@
 <br/>
 
 ## 💫 About Me
-I am a passionate **Full-Stack Developer** and the mind behind **CEO Koroji**. I specialize in building high-performance web applications with a strong focus on User Experience (UX) and clean, maintainable code. I bridge the gap between business logic and technical implementation.
+I am a passionate **Full-Stack Developer**. I specialize in building high-performance web applications with a strong focus on User Experience (UX) and clean, maintainable code. I bridge the gap between business logic and technical implementation.
 
 - 🔭 **I’m currently working on:** Enhancing my portfolio and building scalable SaaS architectures.
 - 🌱 **I’m currently learning:** Advanced System Design and Cloud Native patterns.
@@ -72,7 +72,7 @@ I am a passionate **Full-Stack Developer** and the mind behind **CEO Koroji**. I
 If you have a project in mind or just want to talk about tech, feel free to reach out!
 
 <p align="left">
-  <a href="https://ceokoroji.dev" target="_blank">
+  <a href="https://ceokoroji.dev/contact" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
