@@ -29,8 +29,8 @@ I specialize at the intersection of **Health Informatics** and high-performance 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DandyChux&show_icons=true&theme=radical&hide_border=true" height="150" alt="Chuck's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandyChux&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DandyChux&show_icons=true&theme=aura_dark&hide_border=true" height="150" alt="Chuck's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandyChux&layout=compact&theme=aura_dark&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <div align="center">
