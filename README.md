@@ -3,7 +3,7 @@
   <p>I am a Full-Stack Software Engineer based in Florida | Health Informatics Researcher</p>
 
   <a href="https://linkedin.com/in/chukwuma-okoroji"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://u8views.com/github/DandyChux"><img src="https://u8views.com/api/v1/github/profiles/16887385/views/day-week-month-total-count.svg"></a>
+  <p> <img src="https://komarev.com/ghpvc/?username=dandychux&label=Profile%20views&color=0e75b6&style=flat" alt="dandychux" /> </p>
 </div>
 
 ## 💫 About Me
@@ -11,7 +11,7 @@ I specialize at the intersection of **Health Informatics** and high-performance 
 
 * 🩺 **Focus:** Health informatics research & clinical software systems.
 * 🌱 **Learning:** Deep-diving into **C++** and advanced memory management.
-* 🦀 **Exploring:** Advanced **Rust** patterns and **Distributed Systems**.
+* 🦀 **Exploring:** Advanced **Rust** patterns and **Neural Networks**.
 * 🤝 **Collaboration:** Open-source health tech and medical software.
 
 ---
