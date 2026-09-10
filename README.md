@@ -3,6 +3,7 @@
   <p>I am a Full-Stack Software Engineer based in Florida | Health Informatics Researcher</p>
 
   <a href="https://linkedin.com/in/chukwuma-okoroji"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://u8views.com/github/DandyChux"><img src="https://u8views.com/api/v1/github/profiles/16887385/views/day-week-month-total-count.svg"></a>
 </div>
 
 ## 💫 About Me
